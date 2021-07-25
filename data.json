@@ -1,0 +1,114 @@
+{
+  "arab countries": [
+    {
+      "num": 1,
+      "country": "Egypt",
+      "population": "104,258,327"
+    },
+    {
+      "num": 2,
+      "country": "Sudan",
+      "population": "44,909,353"
+    },
+    {
+      "num": 3,
+      "country": " Algeria",
+      "population": "44,616,624"
+    },
+    {
+      "num": 4,
+      "country": "Iraq",
+      "population": "41,179,350"
+    },
+    {
+      "num": 5,
+      "country": "Morocco",
+      "population": "37,344,795"
+    },
+    {
+      "num": 6,
+      "country": "Saudi Arabia",
+      "population": "35,340,683"
+    },
+    {
+      "num": 7,
+      "country": "Yemen",
+      "population": "30,490,640"
+    },
+    {
+      "num": 8,
+      "country": "Syria",
+      "population": "18,275,702"
+    },
+    {
+      "num": 9,
+      "country": "Somalia",
+      "population": "16,359,504"
+    },
+    {
+      "num": 10,
+      "country": "Tunisia",
+      "population": "11,935,766"
+    },
+    {
+      "num": 11,
+      "country": "Jordan",
+      "population": "10,269,021"
+    },
+    {
+      "num": 12,
+      "country": "United Arab Emirate",
+      "population": "9,991,089"
+    },
+    {
+      "num": 13,
+      "country": "Libya",
+      "population": "6,958,532"
+    },
+    {
+      "num": 14,
+      "country": "Lebanon",
+      "population": "6,769,146"
+    },
+    {
+      "num": 15,
+      "country": "Oman",
+      "population": "5,223,375"
+    },
+    {
+      "num": 16,
+      "country": "Palestine",
+      "population": "5,222,748"
+    },
+    {
+      "num": 17,
+      "country": "Mauritania",
+      "population": "4,775,119"
+    },
+    {
+      "num": 18,
+      "country": "Kuwait",
+      "population": "4,328,550"
+    },
+    {
+      "num": 19,
+      "country": "Qatar",
+      "population": "2,930,528"
+    },
+    {
+      "num": 20,
+      "country": "Bahrain",
+      "population": "1,748,296"
+    },
+    {
+      "num": 21,
+      "country": "Djibouti",
+      "population": "1,002,187"
+    },
+    {
+      "num": 22,
+      "country": "Comoros",
+      "population": "888,451"
+    }
+  ]
+}
